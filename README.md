@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S686&langs_count=8)](https://github.com/S686/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S686&show_icons=true&theme=radical)
 <!--
 **S686/S686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
