@@ -1,9 +1,15 @@
 ### Hi there 👋
 
+---
 #### Introduction
+
  많은 사람들이 사용하는 유용한 서비스를 개발하는게 목표인 개발자입니다. <br>
- 개발을 하면서 사용자의 사용 경험을 중요하게 생각하며, 긍정적인 반응이 나올 때 큰 보람을 느낍니다.
+ 개발을 하면서 사용자의 사용 경험을 중요하게 생각하며, 긍정적인 반응이 나올 때 큰 보람을 느낍니다.<br>
  
+ I'm a developer whose goal is to build useful services that many people use. <br>
+ I care about the user's experience, and it's very rewarding when they respond positively. <br>
+
+---
 #### Skill
   * ##### Language
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
@@ -17,6 +23,7 @@
   * ##### ETC
     <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Epsscript3-148EFF?style=flat&logo=battle.net&logoColor=white"/> <img src="https://img.shields.io/badge/RPGMaker-E60012?style=flat&logo=gamedeveloper&logoColor=white"/> 
 
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S686&langs_count=8)](https://github.com/S686/github-readme-stats)
 
 <!--
